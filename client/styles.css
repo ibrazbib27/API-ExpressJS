@@ -1,0 +1,12 @@
+body {
+	background-color: lightpink;
+}
+
+#chirpContainer {
+	min-height: 250px;
+}
+
+.required:after {
+	content: " *";
+	color: red;
+}
